@@ -17,7 +17,7 @@ const http = {
 };
 
 const gap = responsiveScreenWidth(5);
-const ineerGap = responsiveScreenWidth(2);
+const innerGap = responsiveScreenWidth(2);
 const headerHeight = responsiveScreenHeight(8);
 const footerHeight = 105;
 const bottomBorderWidth = responsiveScreenWidth(0.2);
@@ -94,10 +94,10 @@ export default {
   innerGap,
   headerHeight,
   footerHeight,
-  actionTypes,
-  storageKey,
+  //actionTypes,
+  //storageKey,
   DEFAULT_TIMEOUT,
-  buttonBorderWidth,
+  //buttonBorderWidth,
   buttonRadius,
   buttonHeight,
   smallbuttonHeight,
